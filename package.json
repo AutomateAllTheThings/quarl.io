@@ -1,0 +1,33 @@
+{
+  "name": "quarl.io",
+  "description": "An app to know our differences.",
+  "version": "0.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "author": "AutomateAllTheThings",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AutomateAllTheThings/quarl.io"
+  },
+  "bugs": {
+    "url": "https://github.com/AutomateAllTheThings/quarl.io/issues"
+  },
+  "homepage": "https://github.com/AutomateAllTheThings/quarl.io#readme",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.0",
+    "body-parser": "^1.17.2",
+    "chai": "^4.1.2",
+    "cucumber": "^3.0.1",
+    "express": "^4.15.4",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-cucumber": "0.0.23",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-mocha": "^4.3.1",
+    "request": "^2.81.0",
+    "yargs": "^8.0.2"
+  }
+}

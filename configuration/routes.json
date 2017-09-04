@@ -1,0 +1,12 @@
+[
+  {
+    "method": "POST",
+    "path": "/users",
+    "function": "distribute/actions/users/user.create.js"
+  },
+  {
+    "method": "GET",
+    "path": "/users/:id",
+    "function": "distribute/actions/users/user.show.js"
+  }
+]
